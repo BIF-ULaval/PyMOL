@@ -38,7 +38,7 @@ select <new_sel_name>, byres (within 5 of <seletion>)
 - Color using hydrophobicity:
   1. Load the extension
   ```
-  run <link>
+  run https://raw.githubusercontent.com/BIF-ULaval/PyMOL/refs/heads/main/extensions/color_by_hydro.py
   ```
   2. Run:
   ```
