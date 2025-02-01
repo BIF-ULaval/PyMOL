@@ -33,7 +33,7 @@ select <new_sel_name>, byres (within 5 of <seletion>)
 - Load a great color theme:
   Load the extension
   ```
-  run <link>
+  run https://raw.githubusercontent.com/BIF-ULaval/PyMOL/refs/heads/main/extensions/scientific_colors.py
   ```
 - Color using hydrophobicity:
   1. Load the extension
