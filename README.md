@@ -10,7 +10,7 @@ select <new_select_name>, resi <indices>  # Example: <indices> = 10-18+33+81-83
 ```
 - Select residues within X of selection:
 ```
-select <new_sel_name>, byres (within 5 of <seletion>)
+select <selection_name>, (byres (<new_selection> around 5)) # Example: select binding, (byres (ligand around 5))
 ```
 
 ## Render
